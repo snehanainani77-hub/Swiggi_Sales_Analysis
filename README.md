@@ -40,8 +40,8 @@ The dashboard analyzes:
 - Weekly Sales Trend
 
  ## Dashboard
- Swiggi Dashboard.png.png
-
+ ![Swiggy Sales Dashboard](Dashboard.png)
+ 
 ## Problem Statement
 
 The project focuses on analyzing Swiggy sales data to understand:
