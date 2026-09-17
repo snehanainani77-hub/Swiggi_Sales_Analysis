@@ -39,6 +39,9 @@ The dashboard analyzes:
 - Top 5 Cities by Sales
 - Weekly Sales Trend
 
+ ## Dashboard
+ 
+
 ## Problem Statement
 
 The project focuses on analyzing Swiggy sales data to understand:
